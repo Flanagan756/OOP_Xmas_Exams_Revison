@@ -1,0 +1,6 @@
+C:\Users\Harry\source\repos\Revison1_OOP\Revison1_OOP\bin\Debug\Revison1_OOP.exe.config
+C:\Users\Harry\source\repos\Revison1_OOP\Revison1_OOP\bin\Debug\Revison1_OOP.exe
+C:\Users\Harry\source\repos\Revison1_OOP\Revison1_OOP\bin\Debug\Revison1_OOP.pdb
+C:\Users\Harry\source\repos\Revison1_OOP\Revison1_OOP\obj\Debug\Revison1_OOP.csprojAssemblyReference.cache
+C:\Users\Harry\source\repos\Revison1_OOP\Revison1_OOP\obj\Debug\Revison1_OOP.exe
+C:\Users\Harry\source\repos\Revison1_OOP\Revison1_OOP\obj\Debug\Revison1_OOP.pdb
